@@ -1,0 +1,7 @@
+09:23:53,153 DEBUG devbroswebLogger:29 - Entrando a la url: http://www.way2automation.com/angularjs-protractor/banking/#/login
+09:24:02,107 DEBUG devbroswebLogger:31 - Maximizando la ventana del navegador
+09:24:03,252 DEBUG devbroswebLogger:34 - BaseTest - Driver: ChromeDriver: chrome on XP (4c4095d1465109279215a226799cc3da)
+09:24:03,274 DEBUG devbroswebLogger:18 - Iniciando login como manager
+09:24:04,653 DEBUG devbroswebLogger:23 - Login correctamente ejecutado
+09:24:08,681 DEBUG devbroswebLogger:55 - Login satisfactorio ejecutado
+09:24:08,705 DEBUG devbroswebLogger:41 - Cerrando el driver instaciado..
